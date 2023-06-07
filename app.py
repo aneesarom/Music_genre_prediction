@@ -56,7 +56,33 @@ def new_prediction():
     df = data.get_data_as_dataframe()
     model = PredictPipeline()
     prediction = model.predict(df)
-    return render_template("result.html", predict=prediction[0])
+
+    if prediction[0] == 1:
+        prediction = "pop"
+    elif prediction[0] == 2:
+        prediction = "classical"
+    elif prediction[0] == 3:
+        prediction = "country"
+    elif prediction[0] == 4:
+        prediction = "disco"
+    elif prediction[0] == 5:
+        prediction = "hiphop"
+    elif prediction[0] == 6:
+        prediction = "jazz"
+    elif prediction[0] == 7:
+        prediction = "metal"
+    elif prediction[0] == 8:
+        prediction = "blues"
+    elif prediction[0] == 9:
+        prediction = "reggae"
+    elif prediction[0] == 10:
+        prediction = "rock"
+    else:
+        prediction = "Unknown genre"
+
+    print(prediction)
+
+    return render_template("result.html", predict=prediction)
 
 
 if __name__ == "__main__":
