@@ -1,0 +1,31 @@
+[ 2023-06-07 17:50:57,025 ] 186 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.35:8080
+[ 2023-06-07 17:50:57,025 ] 186 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-06-07 17:51:17,927 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:51:17] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:51:17,971 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:51:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-07 17:56:29,559 ] 103 root - INFO - Dataframe Gathered
+[ 2023-06-07 17:56:29,596 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:56:29] "POST /predict HTTP/1.1" 200 -
+[ 2023-06-07 17:57:35,844 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:35] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:57:40,203 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:40] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:57:50,273 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:50] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:57:50,297 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-07 17:57:51,871 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:51] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:57:51,893 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-07 17:57:53,753 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:53] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:57:53,776 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-07 17:57:54,020 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:54] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:57:54,043 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-07 17:57:54,185 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:54] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:57:54,206 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-07 17:57:54,351 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:54] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:57:55,533 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:57:55] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:58:13,285 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:58:13] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:58:47,252 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:58:47] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:58:47,629 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:58:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-07 17:58:47,646 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:58:47] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+[ 2023-06-07 17:58:47,653 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:58:47] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+[ 2023-06-07 17:59:45,306 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:59:45] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:59:56,391 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:59:56] "GET / HTTP/1.1" 200 -
+[ 2023-06-07 17:59:57,996 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 17:59:57] "GET / HTTP/1.1" 200 -
